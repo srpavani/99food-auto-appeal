@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  contestacao-bot:
+    build: .
+    container_name: 99food-contestacao
+    environment:
+      - LLM_PROVIDER=${LLM_PROVIDER}
+      - LLM_MODEL=${LLM_MODEL}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY}
+      - BASE_API_URL=${BASE_API_URL}
+      - START_DATE=${START_DATE}
+      - END_DATE=${END_DATE}
+      - PAGE_SIZE=${PAGE_SIZE}
+    env_file:
+      - .env
+    restart: unless-stopped
+    # Descomente para rodar apenas uma vez e parar
+    # command: python main.py
+    
+    # Ou para rodar periodicamente (ex: a cada hora)
+    # command: bash -c "while true; do python main.py; sleep 3600; done"
+    
+    # Ou para rodar apenas quando chamado manualmente
+    command: tail -f /dev/null

@@ -1,0 +1,70 @@
+
+================================================================================
+CONTESTAÇÃO REGISTRADA
+================================================================================
+Data/Hora: 28/01/2026 21:30:06
+Pedido ID: 5764657212010070930
+Apply ID: 5764657116233139154
+
+--------------------------------------------------------------------------------
+DADOS DO PEDIDO
+--------------------------------------------------------------------------------
+Motivo da Reclamação: Itens incorretos
+Itens do Pedido: Cachorro quente tradicional x2, X Bacon x2
+Imagem de Prova: SIM - https://img0.didiglobal.com/static/soda_public/d8b31da7b9eeeb0541572b736e74d5f2
+
+--------------------------------------------------------------------------------
+PROMPT ENVIADO PARA IA
+--------------------------------------------------------------------------------
+Motivo da reclamação: Itens incorretos
+Itens do pedido: Cachorro quente tradicional x2, X Bacon x2
+Imagem: https://img0.didiglobal.com/static/soda_public/d8b31da7b9eeeb0541572b736e74d5f2
+
+--------------------------------------------------------------------------------
+RESPOSTA DA IA
+--------------------------------------------------------------------------------
+A imagem mostra os itens corretamente entregues. Nosso processo de conferência garante a precisão. Pedido revisado e embalado com cuidado. Reembolso não é aplicável.
+
+--------------------------------------------------------------------------------
+RESULTADO
+--------------------------------------------------------------------------------
+Status: ❌ FALHA NO ENVIO
+Erro: Server error '500 Internal Server Error' for url 'http://localhost:3002/orders/appeal'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500
+
+================================================================================
+
+
+================================================================================
+CONTESTAÇÃO REGISTRADA
+================================================================================
+Data/Hora: 28/01/2026 21:30:10
+Pedido ID: 5764657166904525645
+Apply ID: 5764657025103496065
+
+--------------------------------------------------------------------------------
+DADOS DO PEDIDO
+--------------------------------------------------------------------------------
+Motivo da Reclamação: Itens incorretos
+Itens do Pedido: Refrigerante 2L x1, Cachorro quente tradicional x1, Cachorro quente tradicional x1
+Imagem de Prova: SIM - https://img0.didiglobal.com/static/soda_public/502f3ef8654e2d0c24ca829467eb53f9
+
+--------------------------------------------------------------------------------
+PROMPT ENVIADO PARA IA
+--------------------------------------------------------------------------------
+Motivo da reclamação: Itens incorretos
+Itens do pedido: Refrigerante 2L x1, Cachorro quente tradicional x1, Cachorro quente tradicional x1
+Imagem: https://img0.didiglobal.com/static/soda_public/502f3ef8654e2d0c24ca829467eb53f9
+
+--------------------------------------------------------------------------------
+RESPOSTA DA IA
+--------------------------------------------------------------------------------
+A imagem mostra claramente o cachorro-quente tradicional entregue corretamente. O pedido foi conferido e está conforme. Reembolso não aplicável.
+
+--------------------------------------------------------------------------------
+RESULTADO
+--------------------------------------------------------------------------------
+Status: ✅ ENVIADO COM SUCESSO
+
+================================================================================
+

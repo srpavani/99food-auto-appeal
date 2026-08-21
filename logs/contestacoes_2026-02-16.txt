@@ -1,0 +1,70 @@
+
+================================================================================
+CONTESTAÇÃO REGISTRADA
+================================================================================
+Data/Hora: 16/02/2026 12:04:03
+Pedido ID: 5764659363906127828
+Apply ID: 5764659435704223733
+
+--------------------------------------------------------------------------------
+DADOS DO PEDIDO
+--------------------------------------------------------------------------------
+Motivo da Reclamação: Itens incorretos
+Itens do Pedido: Cachorro Quente Duplo x1
+Imagem de Prova: SIM - https://img0.didiglobal.com/static/soda_public/52bcb25b7b86afac78c32deffca30e9f
+
+--------------------------------------------------------------------------------
+PROMPT ENVIADO PARA IA
+--------------------------------------------------------------------------------
+Motivo da reclamação: Itens incorretos
+Itens do pedido: Cachorro Quente Duplo x1
+Imagem: https://img0.didiglobal.com/static/soda_public/52bcb25b7b86afac78c32deffca30e9f
+
+--------------------------------------------------------------------------------
+RESPOSTA DA IA
+--------------------------------------------------------------------------------
+O pedido foi conferido e entregue corretamente. A imagem mostra um cachorro-quente com ingredientes típicos. Não há erro no pedido.
+
+--------------------------------------------------------------------------------
+RESULTADO
+--------------------------------------------------------------------------------
+Status: ✅ ENVIADO COM SUCESSO
+
+================================================================================
+
+
+================================================================================
+CONTESTAÇÃO REGISTRADA
+================================================================================
+Data/Hora: 16/02/2026 12:04:07
+Pedido ID: 5764659143390595379
+Apply ID: 5764659156325828995
+
+--------------------------------------------------------------------------------
+DADOS DO PEDIDO
+--------------------------------------------------------------------------------
+Motivo da Reclamação: Itens danificados
+Itens do Pedido: X Tudo x2
+Imagem de Prova: SIM - https://img0.didiglobal.com/static/soda_public/0926d9e0f5002a57baca9cc23e25e041
+
+--------------------------------------------------------------------------------
+PROMPT ENVIADO PARA IA
+--------------------------------------------------------------------------------
+Motivo da reclamação: Itens danificados
+Itens do pedido: X Tudo x2
+Imagem: https://img0.didiglobal.com/static/soda_public/0926d9e0f5002a57baca9cc23e25e041
+
+--------------------------------------------------------------------------------
+RESPOSTA DA IA
+--------------------------------------------------------------------------------
+O produto foi entregue em perfeitas condições, conforme a imagem. A embalagem está intacta, indicando que o pedido foi conferido e embalado corretamente. Reembolso não procede.
+
+--------------------------------------------------------------------------------
+RESULTADO
+--------------------------------------------------------------------------------
+Status: ❌ FALHA NO ENVIO
+Erro: Server error '500 Internal Server Error' for url 'http://localhost:3002/orders/appeal'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500
+
+================================================================================
+

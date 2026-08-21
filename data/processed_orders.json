@@ -1,0 +1,106 @@
+{
+  "processed_orders": {
+    "5764657212010070930_5764657116233139154": {
+      "order_id": "5764657212010070930",
+      "apply_id": "5764657116233139154",
+      "reason": "Itens incorretos",
+      "defense": "Os itens na foto correspondem ao pedido realizado. Nossos produtos são conferidos cuidadosamente. Infelizmente, não podemos aceitar o reembolso.",
+      "success": false,
+      "processed_at": "2026-01-29T21:36:19.651447",
+      "timestamp": 1769733379.651447
+    },
+    "5764657166904525645_5764657025103496065": {
+      "order_id": "5764657166904525645",
+      "apply_id": "5764657025103496065",
+      "reason": "Itens incorretos",
+      "defense": "A foto mostra um cachorro quente conforme pedido. Nossos produtos são conferidos com cuidado. O pedido foi entregue corretamente. Reembolso não é aplicável.",
+      "success": false,
+      "processed_at": "2026-01-29T21:36:22.781877",
+      "timestamp": 1769733382.781877
+    },
+    "5764657373780184639_5764657384618266201": {
+      "order_id": "5764657373780184639",
+      "apply_id": "5764657384618266201",
+      "reason": "Itens incorretos",
+      "defense": "A imagem comprova que o Cachorro Quente Duplo foi entregue corretamente. Nosso controle de qualidade é rigoroso. Pedido conferido e embalado com cuidado. Reembolso não procede.",
+      "success": true,
+      "processed_at": "2026-01-30T08:27:43.559485",
+      "timestamp": 1769772463.559485
+    },
+    "5764659363906127828_5764659435704223733": {
+      "order_id": "5764659363906127828",
+      "apply_id": "5764659435704223733",
+      "reason": "Itens incorretos",
+      "defense": "O pedido foi conferido e entregue corretamente. A imagem mostra um cachorro-quente com ingredientes típicos. Não há erro no pedido.",
+      "success": true,
+      "processed_at": "2026-02-16T12:04:03.851112",
+      "timestamp": 1771254243.851112
+    },
+    "5764659143390595379_5764659156325828995": {
+      "order_id": "5764659143390595379",
+      "apply_id": "5764659156325828995",
+      "reason": "Itens danificados",
+      "defense": "O produto foi entregue em perfeitas condições, conforme a imagem. A embalagem está intacta, indicando que o pedido foi conferido e embalado corretamente. Reembolso não procede.",
+      "success": false,
+      "processed_at": "2026-02-16T12:04:07.827116",
+      "timestamp": 1771254247.827116
+    },
+    "5764659664830663659_5764659486052650059": {
+      "order_id": "5764659664830663659",
+      "apply_id": "5764659486052650059",
+      "reason": "Itens incorretos",
+      "defense": "Os itens foram entregues corretamente conforme o pedido. A imagem mostra o Guaracamp e a Coca-Cola. Por favor, verifique novamente.",
+      "success": true,
+      "processed_at": "2026-02-18T09:28:55.354495",
+      "timestamp": 1771417735.354495
+    },
+    "5764659718492588751_5764659642743458660": {
+      "order_id": "5764659718492588751",
+      "apply_id": "5764659642743458660",
+      "reason": "Itens incorretos",
+      "defense": "A imagem mostra o cachorro-quente tradicional corretamente embalado. O pedido foi conferido e entregue conforme solicitado. Infelizmente, não podemos reembolsar.",
+      "success": true,
+      "processed_at": "2026-02-18T09:29:04.299675",
+      "timestamp": 1771417744.299675
+    },
+    "5764659494684525937_5764659580755838410": {
+      "order_id": "5764659494684525937",
+      "apply_id": "5764659580755838410",
+      "reason": "Itens ausentes",
+      "defense": "A imagem mostra um dos cachorros-quentes corretamente entregue. Nossos pedidos são conferidos com cuidado. Por favor, verifique novamente.",
+      "success": true,
+      "processed_at": "2026-02-18T09:29:07.813082",
+      "timestamp": 1771417747.813082
+    },
+    "5764659538842158125_5764659532559091065": {
+      "order_id": "5764659538842158125",
+      "apply_id": "5764659532559091065",
+      "reason": "Itens danificados",
+      "defense": "A imagem mostra o lanche intacto e bem montado. Nossos produtos são cuidadosamente embalados. Reembolso não é aplicável.",
+      "success": true,
+      "processed_at": "2026-02-18T09:29:11.393543",
+      "timestamp": 1771417751.393543
+    },
+    "5764659557062214762_5764659570190386388": {
+      "order_id": "5764659557062214762",
+      "apply_id": "5764659570190386388",
+      "reason": "Itens incorretos",
+      "defense": "A imagem mostra claramente o Cachorro Quente Duplo solicitado. Conferimos e embalamos com cuidado. Infelizmente, não podemos aceitar o reembolso.",
+      "success": true,
+      "processed_at": "2026-02-18T09:29:20.333002",
+      "timestamp": 1771417760.333002
+    },
+    "5764659567535391730_5764659726696645676": {
+      "order_id": "5764659567535391730",
+      "apply_id": "5764659726696645676",
+      "reason": "Itens ausentes",
+      "defense": "A imagem mostra que o produto foi entregue corretamente. Nossos pedidos são conferidos com cuidado. Não há base para reembolso.",
+      "success": true,
+      "processed_at": "2026-02-18T09:29:22.996230",
+      "timestamp": 1771417762.99623
+    }
+  },
+  "stats": {
+    "total_processed": 11
+  }
+}

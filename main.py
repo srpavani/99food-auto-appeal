@@ -54,7 +54,7 @@ def run_cycle(
         Dict com resultado do ciclo
     """
     # Usa data dinâmica (últimos 7 dias)
-    start_date, end_date = get_date_range(days_back=1)
+    start_date, end_date = get_date_range(days_back=2)
     
     logger.info(f"📅 Período: {start_date} até {end_date}")
     

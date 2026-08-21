@@ -1,0 +1,34 @@
+
+================================================================================
+CONTESTAÇÃO REGISTRADA
+================================================================================
+Data/Hora: 30/01/2026 08:27:43
+Pedido ID: 5764657373780184639
+Apply ID: 5764657384618266201
+
+--------------------------------------------------------------------------------
+DADOS DO PEDIDO
+--------------------------------------------------------------------------------
+Motivo da Reclamação: Itens incorretos
+Itens do Pedido: Cachorro Quente Duplo x1
+Imagem de Prova: SIM - https://img0.didiglobal.com/static/soda_public/25444d875b6c67ed2a66360062438b52
+
+--------------------------------------------------------------------------------
+PROMPT ENVIADO PARA IA
+--------------------------------------------------------------------------------
+Motivo da reclamação: Itens incorretos
+Itens do pedido: Cachorro Quente Duplo x1
+Imagem: https://img0.didiglobal.com/static/soda_public/25444d875b6c67ed2a66360062438b52
+
+--------------------------------------------------------------------------------
+RESPOSTA DA IA
+--------------------------------------------------------------------------------
+A imagem comprova que o Cachorro Quente Duplo foi entregue corretamente. Nosso controle de qualidade é rigoroso. Pedido conferido e embalado com cuidado. Reembolso não procede.
+
+--------------------------------------------------------------------------------
+RESULTADO
+--------------------------------------------------------------------------------
+Status: ✅ ENVIADO COM SUCESSO
+
+================================================================================
+

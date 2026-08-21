@@ -1,0 +1,31 @@
+# Git
+.git/
+.gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+venv/
+env/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Documentação (não necessária no container)
+*.md
+!README.md
+
+# Scripts de instalação (não necessários no container)
+install.sh
+install.ps1
+test_*.py
+example_*.py

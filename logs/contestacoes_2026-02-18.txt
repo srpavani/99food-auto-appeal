@@ -1,0 +1,204 @@
+
+================================================================================
+CONTESTAÇÃO REGISTRADA
+================================================================================
+Data/Hora: 18/02/2026 09:28:55
+Pedido ID: 5764659664830663659
+Apply ID: 5764659486052650059
+
+--------------------------------------------------------------------------------
+DADOS DO PEDIDO
+--------------------------------------------------------------------------------
+Motivo da Reclamação: Itens incorretos
+Itens do Pedido: Guaracamp x1, Refrigerante 2L x1, Cachorro Quente Duplo x1
+Imagem de Prova: SIM - https://img0.didiglobal.com/static/soda_public/bb68a48f2c14fc7f2fe3c2ab5e9e1489
+
+--------------------------------------------------------------------------------
+PROMPT ENVIADO PARA IA
+--------------------------------------------------------------------------------
+Motivo da reclamação: Itens incorretos
+Itens do pedido: Guaracamp x1, Refrigerante 2L x1, Cachorro Quente Duplo x1
+Imagem: https://img0.didiglobal.com/static/soda_public/bb68a48f2c14fc7f2fe3c2ab5e9e1489
+
+--------------------------------------------------------------------------------
+RESPOSTA DA IA
+--------------------------------------------------------------------------------
+Os itens foram entregues corretamente conforme o pedido. A imagem mostra o Guaracamp e a Coca-Cola. Por favor, verifique novamente.
+
+--------------------------------------------------------------------------------
+RESULTADO
+--------------------------------------------------------------------------------
+Status: ✅ ENVIADO COM SUCESSO
+
+================================================================================
+
+
+================================================================================
+CONTESTAÇÃO REGISTRADA
+================================================================================
+Data/Hora: 18/02/2026 09:29:04
+Pedido ID: 5764659718492588751
+Apply ID: 5764659642743458660
+
+--------------------------------------------------------------------------------
+DADOS DO PEDIDO
+--------------------------------------------------------------------------------
+Motivo da Reclamação: Itens incorretos
+Itens do Pedido: Cachorro quente tradicional x3, X Tudo x1
+Imagem de Prova: SIM - https://img0.didiglobal.com/static/soda_public/53b33b498fbc884b86dabcc3b580f85b
+
+--------------------------------------------------------------------------------
+PROMPT ENVIADO PARA IA
+--------------------------------------------------------------------------------
+Motivo da reclamação: Itens incorretos
+Itens do pedido: Cachorro quente tradicional x3, X Tudo x1
+Imagem: https://img0.didiglobal.com/static/soda_public/53b33b498fbc884b86dabcc3b580f85b
+
+--------------------------------------------------------------------------------
+RESPOSTA DA IA
+--------------------------------------------------------------------------------
+A imagem mostra o cachorro-quente tradicional corretamente embalado. O pedido foi conferido e entregue conforme solicitado. Infelizmente, não podemos reembolsar.
+
+--------------------------------------------------------------------------------
+RESULTADO
+--------------------------------------------------------------------------------
+Status: ✅ ENVIADO COM SUCESSO
+
+================================================================================
+
+
+================================================================================
+CONTESTAÇÃO REGISTRADA
+================================================================================
+Data/Hora: 18/02/2026 09:29:07
+Pedido ID: 5764659494684525937
+Apply ID: 5764659580755838410
+
+--------------------------------------------------------------------------------
+DADOS DO PEDIDO
+--------------------------------------------------------------------------------
+Motivo da Reclamação: Itens ausentes
+Itens do Pedido: Guaracamp x2, Cachorro Quente Duplo x2
+Imagem de Prova: SIM - https://img0.didiglobal.com/static/soda_public/9cc942b2ab5dc657abf692e5ee8b1a0a
+
+--------------------------------------------------------------------------------
+PROMPT ENVIADO PARA IA
+--------------------------------------------------------------------------------
+Motivo da reclamação: Itens ausentes
+Itens do pedido: Guaracamp x2, Cachorro Quente Duplo x2
+Imagem: https://img0.didiglobal.com/static/soda_public/9cc942b2ab5dc657abf692e5ee8b1a0a
+
+--------------------------------------------------------------------------------
+RESPOSTA DA IA
+--------------------------------------------------------------------------------
+A imagem mostra um dos cachorros-quentes corretamente entregue. Nossos pedidos são conferidos com cuidado. Por favor, verifique novamente.
+
+--------------------------------------------------------------------------------
+RESULTADO
+--------------------------------------------------------------------------------
+Status: ✅ ENVIADO COM SUCESSO
+
+================================================================================
+
+
+================================================================================
+CONTESTAÇÃO REGISTRADA
+================================================================================
+Data/Hora: 18/02/2026 09:29:11
+Pedido ID: 5764659538842158125
+Apply ID: 5764659532559091065
+
+--------------------------------------------------------------------------------
+DADOS DO PEDIDO
+--------------------------------------------------------------------------------
+Motivo da Reclamação: Itens danificados
+Itens do Pedido: X Bacon x1, X Tudo x2
+Imagem de Prova: SIM - https://img0.didiglobal.com/static/soda_public/0264a102cd5dffdb8fe3b41b17f29e82
+
+--------------------------------------------------------------------------------
+PROMPT ENVIADO PARA IA
+--------------------------------------------------------------------------------
+Motivo da reclamação: Itens danificados
+Itens do pedido: X Bacon x1, X Tudo x2
+Imagem: https://img0.didiglobal.com/static/soda_public/0264a102cd5dffdb8fe3b41b17f29e82
+
+--------------------------------------------------------------------------------
+RESPOSTA DA IA
+--------------------------------------------------------------------------------
+A imagem mostra o lanche intacto e bem montado. Nossos produtos são cuidadosamente embalados. Reembolso não é aplicável.
+
+--------------------------------------------------------------------------------
+RESULTADO
+--------------------------------------------------------------------------------
+Status: ✅ ENVIADO COM SUCESSO
+
+================================================================================
+
+
+================================================================================
+CONTESTAÇÃO REGISTRADA
+================================================================================
+Data/Hora: 18/02/2026 09:29:20
+Pedido ID: 5764659557062214762
+Apply ID: 5764659570190386388
+
+--------------------------------------------------------------------------------
+DADOS DO PEDIDO
+--------------------------------------------------------------------------------
+Motivo da Reclamação: Itens incorretos
+Itens do Pedido: Refrigerante lata x1, Cachorro Quente Duplo x1
+Imagem de Prova: SIM - https://img0.didiglobal.com/static/soda_public/f40c23ec584f0ffa94f64453bbd39dce
+
+--------------------------------------------------------------------------------
+PROMPT ENVIADO PARA IA
+--------------------------------------------------------------------------------
+Motivo da reclamação: Itens incorretos
+Itens do pedido: Refrigerante lata x1, Cachorro Quente Duplo x1
+Imagem: https://img0.didiglobal.com/static/soda_public/f40c23ec584f0ffa94f64453bbd39dce
+
+--------------------------------------------------------------------------------
+RESPOSTA DA IA
+--------------------------------------------------------------------------------
+A imagem mostra claramente o Cachorro Quente Duplo solicitado. Conferimos e embalamos com cuidado. Infelizmente, não podemos aceitar o reembolso.
+
+--------------------------------------------------------------------------------
+RESULTADO
+--------------------------------------------------------------------------------
+Status: ✅ ENVIADO COM SUCESSO
+
+================================================================================
+
+
+================================================================================
+CONTESTAÇÃO REGISTRADA
+================================================================================
+Data/Hora: 18/02/2026 09:29:22
+Pedido ID: 5764659567535391730
+Apply ID: 5764659726696645676
+
+--------------------------------------------------------------------------------
+DADOS DO PEDIDO
+--------------------------------------------------------------------------------
+Motivo da Reclamação: Itens ausentes
+Itens do Pedido: Cachorro quente tradicional x1, X Tudo x1
+Imagem de Prova: SIM - https://img0.didiglobal.com/static/soda_public/7edebd745f74c011d8e600810ad79a72
+
+--------------------------------------------------------------------------------
+PROMPT ENVIADO PARA IA
+--------------------------------------------------------------------------------
+Motivo da reclamação: Itens ausentes
+Itens do pedido: Cachorro quente tradicional x1, X Tudo x1
+Imagem: https://img0.didiglobal.com/static/soda_public/7edebd745f74c011d8e600810ad79a72
+
+--------------------------------------------------------------------------------
+RESPOSTA DA IA
+--------------------------------------------------------------------------------
+A imagem mostra que o produto foi entregue corretamente. Nossos pedidos são conferidos com cuidado. Não há base para reembolso.
+
+--------------------------------------------------------------------------------
+RESULTADO
+--------------------------------------------------------------------------------
+Status: ✅ ENVIADO COM SUCESSO
+
+================================================================================
+

@@ -1,0 +1,64 @@
+╔═══════════════════════════════════════════════════════════════════╗
+║                    ⚠️  AVISO IMPORTANTE - DEEPSEEK                 ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+🔴 PROBLEMA CORRIGIDO!
+
+Você estava usando o modelo 'deepseek-chat' que NÃO suporta análise
+de imagens. Por isso, todos os pedidos com fotos anexadas falhavam.
+
+═══════════════════════════════════════════════════════════════════════
+
+✅ SOLUÇÃO: Use o modelo com suporte a visão
+
+Abra o arquivo .env e mude a linha LLM_MODEL:
+
+┌───────────────────────────────────────────────────────────────────┐
+│ ❌ ANTES (não funciona com imagens):                              │
+│                                                                   │
+│   LLM_PROVIDER=deepseek                                           │
+│   LLM_MODEL=deepseek-chat                                         │
+│   DEEPSEEK_API_KEY=sk-...                                         │
+└───────────────────────────────────────────────────────────────────┘
+
+┌───────────────────────────────────────────────────────────────────┐
+│ ✅ AGORA (funciona com texto + imagens):                          │
+│                                                                   │
+│   LLM_PROVIDER=deepseek                                           │
+│   LLM_MODEL=deepseek-vl-7b-chat                                   │
+│   DEEPSEEK_API_KEY=sk-...                                         │
+└───────────────────────────────────────────────────────────────────┘
+
+═══════════════════════════════════════════════════════════════════════
+
+📋 MODELOS DISPONÍVEIS:
+
+┌─────────────────────────┬──────────────┬─────────────────────────┐
+│ Modelo                  │ Suporte      │ Quando usar             │
+├─────────────────────────┼──────────────┼─────────────────────────┤
+│ deepseek-chat           │ Apenas texto │ Pedidos SEM fotos       │
+│ deepseek-vl-7b-chat     │ Texto+Imagem │ Pedidos COM fotos ⭐     │
+│ deepseek-vl-1.3b-chat   │ Texto+Imagem │ Versão mais rápida      │
+└─────────────────────────┴──────────────┴─────────────────────────┘
+
+═══════════════════════════════════════════════════════════════════════
+
+🔧 O QUE FOI CORRIGIDO NO CÓDIGO:
+
+1. ✅ Sistema detecta automaticamente se o modelo suporta visão
+2. ✅ Se houver imagem mas modelo não suportar, processa só o texto
+3. ✅ Aviso claro no log quando imagem é ignorada
+4. ✅ Documentação atualizada com modelos corretos
+
+═══════════════════════════════════════════════════════════════════════
+
+💡 DICA: Como seus pedidos TÊM fotos anexadas (vi nos logs), 
+         recomendo usar 'deepseek-vl-7b-chat' para análise completa!
+
+═══════════════════════════════════════════════════════════════════════
+
+Após mudar o .env, reinicie o programa com:
+  
+  python main.py
+
+═══════════════════════════════════════════════════════════════════════
